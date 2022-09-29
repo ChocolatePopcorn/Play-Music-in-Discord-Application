@@ -1,5 +1,5 @@
 {
-  "name": "PlayBacksongMusic_Discord",
+  "name": "PlayMusic_Discord",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.4.0",
-  "projectVersion": "1.0.8",
+  "projectVersion": "1.0.9",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
